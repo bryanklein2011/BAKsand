@@ -2,7 +2,7 @@
   "name": "ABQ",
   "version": "1.5.0",
   "description": "An elegant responsive bootstrap 4.x theme.",
-  "main": "sand/gulpfile.js",
+  "main": "../gulpfile.js",
   "author": "DevCRUD",
   "scripts": {
     "start": "gulp"
